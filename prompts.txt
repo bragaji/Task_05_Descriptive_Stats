@@ -1,0 +1,9 @@
+“How many games did the team play?”
+
+“Who contributed most to team success based on scoring + caused turnovers?”
+
+“Should the team focus on offense or defense to win 2 more games next season?”
+
+“Who is the most improved player?”
+
+“Which player had the highest goal-to-shot ratio?”
