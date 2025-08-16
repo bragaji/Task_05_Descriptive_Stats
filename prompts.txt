@@ -7,3 +7,24 @@
 “Who is the most improved player?”
 
 “Which player had the highest goal-to-shot ratio?”
+
+
+############ Advance Questions #################
+
+
+Setup Prompt:
+You are an expert sports data analyst. I will provide you with a dataset of [SU Women’s Lacrosse Team stats from last season].  
+Your job is to answer natural language questions using **descriptive statistics, comparisons, and logical reasoning**.  
+
+Rules:
+- Always explain how you derived the answer.  
+- If a metric is not explicitly in the data, propose a reasonable definition and explain it.  
+- If the data is insufficient, state that clearly.  
+
+
+Advance Questions:
+1. Compare home vs. away performance: did location impact win probability? 
+2. As a coach, should the team focus on offense or defense to add 2 more wins next season? Why?
+3. Which player contributed the most to wins, considering goals + assists + defensive stats?
+4. Who was the most improved player from the first half to the second half of the season, and how do you measure improvement?
+5. Based on last season, project the win-loss record if defense improves by 15% but offense stays the same.
